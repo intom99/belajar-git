@@ -1,3 +1,4 @@
 Front-end languages include HTML, CSS, and Javascript.
 Javascript framework front-end : vuejs, reactjs
 Javascript framework back-end : nodejs
+Backend languages : golang
